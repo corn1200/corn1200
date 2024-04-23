@@ -41,7 +41,7 @@
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/markdown-20232a?style=for-the-badge&logo=markdown&logoColor=white" /></span>
 
 ## 🦖 OLD STACK
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" /></span>
