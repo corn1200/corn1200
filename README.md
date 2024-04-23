@@ -55,12 +55,12 @@
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/notion-20232a?style=for-the-badge&logo=notion&logoColor=white" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/intellijidea-20232a?style=for-the-badge&logo=intellijidea&logoColor=white" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/pycharm-20232a?style=for-the-badge&logo=pycharm&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/rider-20232a?style=for-the-badge&logo=rider&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/notion-20232a?style=for-the-badge&logo=notion&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/intellijidea-20232a?style=for-the-badge&logo=intellijidea&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/pycharm-20232a?style=for-the-badge&logo=pycharm&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></span>
 
