@@ -24,23 +24,45 @@
 - **2019.11 : 제2회 ICT CoC(ICT complex of ceative developer) 해커톤** : 우수상
 - **2019.11 : 제3회 인공지능 챗본톤(2019 AI WEEK KOREA)** : 장려상
 
-## 🐔 현재 사용 중인 기술
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/csharp-20232a.svg?style=for-the-badge&logo=csharp&logoColor=512BD4" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Postgresql-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Javascript-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Geoserver-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Openlayers-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Markdown-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Linux-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Ubuntu-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/centos-20232a.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /></span>
+## 🐔 STACK
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/unity-20232a?style=for-the-badge&logo=unity&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/geoserver-4CB05B?style=for-the-badge&logo=osgeo&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/openlayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/markdown-20232a?style=for-the-badge&logo=markdown&logoColor=white" /></span>
 
-## 🦖 예전에 사용 했던 기술
+## 🦖 OLD STACK
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></span>
+
+## 🛠️ TOOL
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/notion-20232a?style=for-the-badge&logo=notion&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/intellijidea-20232a?style=for-the-badge&logo=intellijidea&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/pycharm-20232a?style=for-the-badge&logo=pycharm&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/rider-20232a?style=for-the-badge&logo=rider&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /></span>
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></span>
 
 ## 📫 사이트
 [노션](https://corn1200.notion.site/PORTFOLIO-fe6fa3b02bea46f4b8c974a6b25b0083?pvs=4) | [블로그](https://velog.io/@corn1200/posts)
