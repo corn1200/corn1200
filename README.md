@@ -65,7 +65,7 @@
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></span>
 
 ## 📫 사이트
-[노션](https://corn1200.notion.site/PORTFOLIO-fe6fa3b02bea46f4b8c974a6b25b0083?pvs=4) | [블로그](https://velog.io/@corn1200/posts)
+[노션](https://shorturl.at/epuvB) | [블로그](https://velog.io/@corn1200/posts)
 
 ## 📈 GitHub 통계
 ![corn1200's GitHub stats](https://github-readme-stats.vercel.app/api?username=corn1200&show_icons=true&theme=dark)
